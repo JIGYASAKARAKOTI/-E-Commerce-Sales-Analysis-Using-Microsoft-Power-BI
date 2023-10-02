@@ -1,2 +1,3 @@
 # -E-Commerce-Sales-Analysis-Using-Microsoft-Power-BI
 The project presents a comprehensive analysis of an e-commerce business, utilizing Excel and Power BI tools. Key performance metrics and trends are analyzed and displayed using tables, charts, and a Power BI dashboard. The insights gained from this analysis can aid in informed decision-making and drive business growth.The aim of this project is to provide a clear and actionable understanding of the e-commerce business and its various components, helping to identify areas for improvement and growth.
+![Screenshot 2023-09-27 151520](https://github.com/JIGYASAKARAKOTI/-E-Commerce-Sales-Analysis-Using-Microsoft-Power-BI/assets/105275283/b315eb9f-bc3a-4115-b213-063d24f455bf)
